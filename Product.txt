@@ -1,0 +1,14 @@
+01 - Oppo Reno5 8GB-128GB - Oppo Reno5 8GB-128GB - 6688000 - 8390000 - 10 - 7 - OPPO - Điện thoại
+02 - Oppo Reno4 Pro - Oppo Reno4 Pro - 8151000 - 11490000 - 25 - 10 - OPPO - Điện thoại
+03 - Samsung Galaxy Z Flip - Samsung Galaxy Z Flip - 13497000 - 20990000 - 10 - 3 - Samsung - Điện thoại
+04 - Oppo A92 - Oppo A92 - 4543000 - 5990000 - 30 - 15 - OPPO - Điện thoại
+04 - Xiaomi Redmi 9 4GB-64GB - Xiaomi Redmi 9 4GB-64GB - 2556000 - 3190000 - 30 - 25 - Xiaomi - Điện thoại
+05 - Asus Zenbook UX325EA-EG079T - Asus Zenbook UX325EA-EG079T - 16550000 - 20790000 - 10 - 6 - Asus - Laptop
+06 - Dell G3 15 i5 10300H - Dell G3 15 i5 10300H - 17550000 - 21840000 - 15 - 4 - Dell - Laptop
+07 - Dell Inspiron N7501 i7 10750H - Dell Inspiron N7501 i7 10750H - 21570000 - 28970000 - 10 - 1 - Dell - Laptop
+08 - iPhone 12 Pro Max 128GB - iPhone 12 Pro Max 128GB - 25729000 - 30990000 - 5 - 2 - iPhone - Apple
+09 - MacBook Air 13" 2020 M1 16GB/256GB - MacBook Air 13" 2020 M1 16GB/256GB - 28550000 - 33990000 - 20 - 4 - MacBook - Apple
+10 - Loa bluetooth Compact 2 - Loa bluetooth Compact 2 - 150000 - 290000 - 20 - 15 - Xiaomi - Phụ kiện
+11 - Loa bluetooth i.value BT116 - Loa bluetooth i.value BT116 - 230000 - 490000 - 30 - 10 - i.value - Phụ kiện
+12 - Pin sạc dự phòng 10000mAh Mi Ultra Compact  - Pin sạc dự phòng 10000mAh Mi Ultra Compact  - 480000 - 710000 - 30 - 10 - Xiaomi - Phụ kiện
+13 - Vivo Y20 4GB-64GB - Vivo Y20 4GB-64GB - 2450000 - 3690000 - 15 - 10 - Vivo - Điện thoại
